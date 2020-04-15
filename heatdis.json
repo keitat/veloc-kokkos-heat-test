@@ -1,0 +1,8 @@
+{
+  "backend": "veloc",
+  "backends": {
+    "veloc": {
+      "config": "../heatdis.cfg"
+    }
+  }
+}
